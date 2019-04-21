@@ -1,0 +1,5 @@
+﻿  MethodsLIS.cpp
+c:\users\usuario\documents\visual studio 2015\projects\generationmaxsequence\generationmaxsequence\methodslis.cpp(21): warning C4101: 'cont': unreferenced local variable
+c:\users\usuario\documents\visual studio 2015\projects\generationmaxsequence\generationmaxsequence\methodslis.cpp(21): warning C4101: 'min': unreferenced local variable
+  GenerationMaxSequence.vcxproj -> C:\Users\Usuario\documents\visual studio 2015\Projects\GenerationMaxSequence\Debug\GenerationMaxSequence.exe
+  GenerationMaxSequence.vcxproj -> C:\Users\Usuario\documents\visual studio 2015\Projects\GenerationMaxSequence\Debug\GenerationMaxSequence.pdb (Full PDB)
